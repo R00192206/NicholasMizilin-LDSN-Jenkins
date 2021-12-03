@@ -1,3 +1,5 @@
-a = "Hello World"
+a = 1
+b = 2
 
-print(a)
+if a + b == 3:
+  print("Hello World")
